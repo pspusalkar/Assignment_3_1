@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test Android Project (Scrap)</string>
+
+    <string name="title_activity_assignment4_1">Assignment4_1</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_assignment4_2">Assignment4_2</string>
+    <string name="red">Red</string>>
+    <string name="yellow">Yellow</string>>
+    <string name="blue">Blue</string>>
+    <string name="green">Green</string>>
+    <string name="orange">Orange</string>>
+    <string name="indigo">Indigo</string>>
+    <string name="voilate">Voilate</string>>
+</resources>
